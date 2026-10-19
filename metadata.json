@@ -1,0 +1,8 @@
+{
+  "name": "Kısa Çizgi ve Yay Ayraç Sunumu",
+  "description": "Türk Dili ve Edebiyatı dersi için Kısa Çizgi, Konuşma Çizgisi, Ara Sözler ve Yay Ayraç konularını anlatan etkileşimli sunum ve mini oyunlar.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
