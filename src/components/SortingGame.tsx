@@ -185,7 +185,7 @@ export const SortingGame: React.FC = () => {
               fontWeight: 600,
             }}
           >
-            Tüm 6 kural örneği başarıyla doğru kutulara yerleştirildi! 🌟
+            Tüm 6 kural örneği başarıyla doğru kutulara yerleştirildi!
           </span>
         )}
       </div>

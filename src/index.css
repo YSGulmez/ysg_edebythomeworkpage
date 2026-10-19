@@ -641,25 +641,6 @@ h2 {
   }
 }
 
-.game::after {
-  content: '✦';
-  position: absolute;
-  right: 28px;
-  top: 18px;
-  color: var(--orange);
-  font-size: 2rem;
-  animation: pulse 2s ease-in-out infinite, rotateStar 12s linear infinite;
-}
-
-@keyframes rotateStar {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
-
 .game h3 {
   font-size: clamp(1.4rem, 3vw, 2.25rem);
   margin: 0 0 0.6rem;
